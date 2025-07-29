@@ -112,5 +112,3 @@ Credit card fraud is a critical financial issue globally. This project focuses o
 5. K. A. Bakar et al. (2023) - JCSTS.
 
 ---
-
-> “Machine learning is not just a buzzword—it’s a defense mechanism in the fight against financial fraud.”
